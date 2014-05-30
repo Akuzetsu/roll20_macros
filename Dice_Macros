@@ -1,1 +1,7 @@
-[[{?{Number Of Creatures Saving}d20+?{Bonus}}>?{DC}]]
+Multiple Creature Saving Throws vs DC
+[[{?{Number Of Creatures Saving}d20+?{Saving Bonus}}>?{DC}]]
+
+Mutliple Creature Attacks vs Single Target
+[[{?{Number Of Creatures Attacking}d20+?{Attack Bonus}}>?{Target AC}]]
+[[{?{Number Of Creatures Attacking}d?{Damage Dice}+?{Number Of Creatures Attacking}*?{Damage Bonus}}]]
+
