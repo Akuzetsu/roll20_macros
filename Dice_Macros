@@ -14,3 +14,4 @@ Mutliple Creature(s)/Attack(s) vs Single Target (Damage)
 Total Damage = [[{?{Number Of Creature(s)/Attack(s) That Hit}d?{Damage Dice Sides}+?{Number Of Creature(s)/Attack(s) That Hit}*?{Damage Bonus}}]]
 # of Creatures Hit: ?{Number Of Creature(s)/Attack(s) That Hit}
 Damage Dice Sides: ?{Damage Dice Sides} Damage Bonus: ?{Damage Bonus}
+
